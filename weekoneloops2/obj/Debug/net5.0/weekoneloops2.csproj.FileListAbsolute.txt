@@ -1,0 +1,16 @@
+C:\Users\Drew\source\repos\weekoneloops2\weekoneloops2\bin\Debug\net5.0\weekoneloops2.exe
+C:\Users\Drew\source\repos\weekoneloops2\weekoneloops2\bin\Debug\net5.0\weekoneloops2.deps.json
+C:\Users\Drew\source\repos\weekoneloops2\weekoneloops2\bin\Debug\net5.0\weekoneloops2.runtimeconfig.json
+C:\Users\Drew\source\repos\weekoneloops2\weekoneloops2\bin\Debug\net5.0\weekoneloops2.runtimeconfig.dev.json
+C:\Users\Drew\source\repos\weekoneloops2\weekoneloops2\bin\Debug\net5.0\weekoneloops2.dll
+C:\Users\Drew\source\repos\weekoneloops2\weekoneloops2\bin\Debug\net5.0\ref\weekoneloops2.dll
+C:\Users\Drew\source\repos\weekoneloops2\weekoneloops2\bin\Debug\net5.0\weekoneloops2.pdb
+C:\Users\Drew\source\repos\weekoneloops2\weekoneloops2\obj\Debug\net5.0\weekoneloops2.csproj.AssemblyReference.cache
+C:\Users\Drew\source\repos\weekoneloops2\weekoneloops2\obj\Debug\net5.0\weekoneloops2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drew\source\repos\weekoneloops2\weekoneloops2\obj\Debug\net5.0\weekoneloops2.AssemblyInfoInputs.cache
+C:\Users\Drew\source\repos\weekoneloops2\weekoneloops2\obj\Debug\net5.0\weekoneloops2.AssemblyInfo.cs
+C:\Users\Drew\source\repos\weekoneloops2\weekoneloops2\obj\Debug\net5.0\weekoneloops2.csproj.CoreCompileInputs.cache
+C:\Users\Drew\source\repos\weekoneloops2\weekoneloops2\obj\Debug\net5.0\weekoneloops2.dll
+C:\Users\Drew\source\repos\weekoneloops2\weekoneloops2\obj\Debug\net5.0\ref\weekoneloops2.dll
+C:\Users\Drew\source\repos\weekoneloops2\weekoneloops2\obj\Debug\net5.0\weekoneloops2.pdb
+C:\Users\Drew\source\repos\weekoneloops2\weekoneloops2\obj\Debug\net5.0\weekoneloops2.genruntimeconfig.cache
